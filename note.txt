@@ -1,0 +1,6 @@
+Recursion
+
+A function that can call itself is called recursion fucntion.
+
+
+g++ recursion.cpp -o recursion
